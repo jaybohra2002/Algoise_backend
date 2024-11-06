@@ -1,2 +1,3 @@
-![Image Alt Text](https://github.com/jaybohra2002/Algoise_backend/blob/master/Architecture.png?raw=true)
 
+
+![Architecture](https://github.com/user-attachments/assets/f992956d-b54c-4512-9f2e-462c7341e85c)
